@@ -3,6 +3,7 @@
 Currently on a journey to becoming a frontend enginner. ⛰️
 
 Check out the languages I've used in my projects 👇
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamYuriko&layout=compact)
 
 Here are some of my projects 👇
