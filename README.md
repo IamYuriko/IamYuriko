@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yuriko
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IamYuriko)](https://github.com/IamYuriko/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IamYuriko&layout=compact)
 
 Here's my projects 👇
 
