@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Yuriko!
 
-Currently on a journey to becoming a frontend engineer. ⛰️
+Currently on a journey to become a frontend engineer. ⛰️
 
 Check out the languages I've used in my projects 👇
 
